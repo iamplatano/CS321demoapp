@@ -60,7 +60,6 @@ class _SafariAppState extends State<SafariApp> {
                   ),
                   Divider(height: 20),
                   SizedBox(
-                    height: 150,
                     width: 550,
                     child: Text(
                       descriptions[currentind],
